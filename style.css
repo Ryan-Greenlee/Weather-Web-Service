@@ -1,0 +1,16 @@
+form {
+    margin: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  input[type="text"] {
+    width: 200px;
+  }
+
+  #weather-info {
+    margin-top: 20px;
+  }
